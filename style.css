@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+.homepage,
+img {
+    text-align: center;
+}
+
+* {
+    background-color: rgb(101, 110, 100);
+}
+
+button {
+    background-color: rgba(152, 161, 150, 0.445) ;
+}
+
+.wally {
+    height: auto;
+    width: 200px;
+}
+
+.food-img {
+    height: auto;
+    width: 400px;
+}
+
+.list-homepage {
+    display: table;
+    margin: 0 auto;
+}
